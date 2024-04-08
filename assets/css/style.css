@@ -41,9 +41,47 @@ header > div {
     height: 28vh;
 }
 
-/*styles for main content*/
+/*styles for what we teach*/
+#what-we-teach {
+    background-color: black;
+    color: white;
+}
 
+#what-we-teach > div {
+    margin: 0.5rem 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+div > h4, p {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#boxing {
+    background: url(../images/pexels-pixabay-290416.jpg) no-repeat center center/cover;
+}
+
+#kickboxing {
+    background: url(../images/pexels-coco-championship-598686.jpg) no-repeat center center/cover;
+}
+
+#mma {
+    background: url(../images/pexels-pavel-danilyuk-6295725.jpg) no-repeat center center/cover;
+}
+
+#bjj {
+    background: url(../images/pexels-cottonbro-studio-7988366.jpg) no-repeat center 40%/cover;
+}
+
+#mauy-thai {
+    background: url(../images/pexels-alexa-popovich-9302141.jpg) no-repeat center 30%/cover;
+}
+
+#one-to-one {
+    background: url(../images/pexels-pavel-danilyuk-6295762.jpg) no-repeat center center/cover;
+}
+/*styles for footer*/
 footer {
     background-color: black;
     color: white;
