@@ -294,8 +294,32 @@ footer > p {
         flex-wrap: wrap;
     }
 
+    #prices {
+        width: 80%;
+        align-self: center;
+    }
+
+    #contact {
+        display: flex;
+        width: 100%;
+    }
+
+    #enquiry {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        width: 48%;
+    }
+
+    #enquiry > h3 {
+        align-self: center;
+        margin-top: 1rem
+    }
+
+/*enquiry form styles*/
+
     #enquiry-form {
-        width: 45%;
+        width: 100%;
     }
 
 /*footer styles*/
