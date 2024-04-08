@@ -14,6 +14,11 @@ body {
     color: black;
 }
 
+main {
+    display: flex;
+    flex: 1 0 auto;
+}
+
 /*styles for header*/
 header {
     height: 25vh;
@@ -36,6 +41,31 @@ header > div {
     height: 28vh;
 }
 
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+footer > h2 {
+    align-self: center;
+
+}
+
+footer > p {
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+#socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 1.5rem;
+    list-style-type: none;
+    margin: 0.5rem 0;
+}
 /*styles for navigation*/
 a {
     text-decoration: none;
