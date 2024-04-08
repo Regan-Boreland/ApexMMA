@@ -107,7 +107,37 @@ div > h4, p {
 
 /*about us styles*/
 #about-us {
-    background-color: white;
+    margin: 1rem 0;
+}
+
+/*session time styles*/
+#session {
+    margin: 4px 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#session > div {
+    border: 2px solid whitesmoke;
+    width: 45vw;
+    text-align: center;
+    left: 50px;
+    padding: 4px 0;
+}
+
+#session {
+    display: flex;
+    flex-wrap: wrap;
+    color: whitesmoke;
+    text-shadow: 2px 2px #3a3a3a;
+    background: url('../images/derrick-treadwell-KufWaAolhP4-unsplash.jpg') no-repeat center center/cover;
+}
+
+#session div {
+    flex-basis: 200px;
+    align-self: center;
+    flex-grow: 1;
+
 }
 
 /*styles for footer*/
@@ -176,7 +206,11 @@ footer > p {
     header > div {
         height: 55vh;
     }
-
+/*navigation styles*/
+    #nav > li :hover {
+        border-bottom: 2px solid #b30000;
+    }
+/*styles for what we teach section*/
     #what-we-teach {
         width: 100%;
     }
@@ -184,6 +218,7 @@ footer > p {
     #what-we-teach > div {
         width: 48%;
     }
+    
 }
 
 
