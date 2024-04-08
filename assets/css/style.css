@@ -26,6 +26,7 @@ main {
     display: flex;
     flex: 1 0 auto;
     flex-direction: column;
+    margin-top: 155px;
 }
 
 /*styles for header*/
@@ -38,6 +39,8 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: fixed;
+    width: 100vw;
     background: url(../images/ameya-sawant-7RJTPLgwMsc-unsplash.jpg) no-repeat center bottom/cover;
 }
 
@@ -295,6 +298,10 @@ footer > p {
         font-size: 150%;
     }
 
+    main {
+        margin-top: 250px;
+    }
+
     #reasons {
         display: flex;
         flex-direction: row;
@@ -324,16 +331,23 @@ footer > p {
         display: flex;
         width: 100%;
     }
+
+    #FAQs {
+        width: 50%;
+    }
 /*styles for enquiry form*/
     #enquiry {
         display: flex;
         flex-direction: column;
         align-content: center;
         width: 48%;
+        height: 300px;
+        justify-content: center;
     }
 
     #enquiry-form {
         width: 100%;
+        height: 20rem;
     }
 
 /*footer styles*/
@@ -344,9 +358,14 @@ footer > p {
 
 /*media query for small laptops and bigger*/
 @media screen and (min-width: 992px) {
+/*general styles for main content*/
+    main {
+        margin-top: 300px;
+    }
 /*styles for header*/
     header {
         height: 55vh;
+        position: absolute;
     }
 
     header > div {
