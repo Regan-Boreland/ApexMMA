@@ -237,6 +237,10 @@ footer > p {
         flex-wrap: wrap;
     }
 
+    #enquiry-form {
+        width: 45%;
+    }
+
 /*footer styles*/
     footer > p {
         align-self: center;
