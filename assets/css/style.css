@@ -16,7 +16,7 @@ body {
 
 /*styles for header*/
 header {
-    height: 20vh;
+    height: 25vh;
     background-color: black;
     color: white;
     z-index: 99;
@@ -24,9 +24,28 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: url(../images/ameya-sawant-7RJTPLgwMsc-unsplash.jpg) no-repeat center bottom/cover;
+}
+
+header > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 28vh;
 }
 
 /*styles for navigation*/
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    border-bottom: 2px solid #b30000;
+}
+
 #nav {
     display: flex;
     flex-direction: row;
@@ -39,12 +58,26 @@ header {
     padding: 0 0.5rem;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
+/*media query for tablets and bigger*/
+@media screen and (min-width: 768px) {
+/*styles for header*/
+    header {
+        font-size: 150%;
+    }
+    
 }
 
-.active {
-    border-bottom: 2px solid #b30000;
+/*media query for small laptops and bigger*/
+@media screen and (min-width: 992px) {
+/*styles for header*/
+    header {
+        height: 55vh;
+    }
+
+    header > div {
+        height: 55vh;
+    }
 }
+
+
 
