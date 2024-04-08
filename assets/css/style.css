@@ -17,6 +17,7 @@ body {
 main {
     display: flex;
     flex: 1 0 auto;
+    flex-direction: column;
 }
 
 /*styles for header*/
@@ -102,6 +103,11 @@ div > h4, p {
 
 #one-to-one {
     background: url(../images/pexels-pavel-danilyuk-6295762.jpg) no-repeat center center/cover;
+}
+
+/*about us styles*/
+#about-us {
+    background-color: white;
 }
 
 /*styles for footer*/
