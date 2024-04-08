@@ -203,6 +203,17 @@ a {
     flex-direction: column;
     align-items: center;
 }
+/*FAQs styles*/
+#FAQs {
+    padding: 1rem 1rem;
+    color: white;
+    background-color: black;
+}
+
+#FAQs > p {
+    margin-bottom: 0.75rem;
+}
+
 
 /*styles for enquiry form*/
 form {
@@ -228,6 +239,16 @@ textarea {
 
 #contact {
     width: 100%;
+}
+
+#enquiry {
+    display: flex;
+    flex-direction: column;
+}
+
+#enquiry > h3 {
+    align-self: center;
+    margin-top: 1rem;
 }
 
 #enquiry-form > * {
@@ -303,20 +324,13 @@ footer > p {
         display: flex;
         width: 100%;
     }
-
+/*styles for enquiry form*/
     #enquiry {
         display: flex;
         flex-direction: column;
         align-content: center;
         width: 48%;
     }
-
-    #enquiry > h3 {
-        align-self: center;
-        margin-top: 1rem
-    }
-
-/*enquiry form styles*/
 
     #enquiry-form {
         width: 100%;
