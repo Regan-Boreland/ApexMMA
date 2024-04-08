@@ -41,6 +41,28 @@ header > div {
     height: 28vh;
 }
 
+/*styles for navigation*/
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    border-bottom: 2px solid #b30000;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 1rem;  
+}
+
+#nav > li {
+    padding: 0 0.5rem;
+}
+
 /*styles for what we teach*/
 #what-we-teach {
     background-color: black;
@@ -81,6 +103,7 @@ div > h4, p {
 #one-to-one {
     background: url(../images/pexels-pavel-danilyuk-6295762.jpg) no-repeat center center/cover;
 }
+
 /*styles for footer*/
 footer {
     background-color: black;
@@ -107,27 +130,7 @@ footer > p {
     list-style-type: none;
     margin: 0.5rem 0;
 }
-/*styles for navigation*/
-a {
-    text-decoration: none;
-    color: white;
-}
 
-.active {
-    border-bottom: 2px solid #b30000;
-}
-
-#nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    list-style-type: none;
-    padding: 1rem;  
-}
-
-#nav > li {
-    padding: 0 0.5rem;
-}
 
 /*media query for tablets and bigger*/
 @media screen and (min-width: 768px) {
@@ -136,11 +139,25 @@ a {
         font-size: 150%;
     }
 
+
+
+/*main content styles*/
+    #what-we-teach > div {
+        width: 46%;
+        height: 300px;
+        margin-left: 1rem;
+        padding-top: 1rem;
+    }
+
+    #what-we-teach {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
 /*footer styles*/
     footer > p {
         align-self: center;
     }
-    
 }
 
 /*media query for small laptops and bigger*/
@@ -152,6 +169,14 @@ a {
 
     header > div {
         height: 55vh;
+    }
+
+    #what-we-teach {
+        width: 100%;
+    }
+
+    #what-we-teach > div {
+        width: 48%;
     }
 }
 
