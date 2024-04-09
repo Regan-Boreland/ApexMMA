@@ -175,6 +175,7 @@ a {
 }
 
 /*GALLERY.HTML MAIN CONTENT STYLES*/
+/*images styles*/
 #images > img {
     width: 100%;
     line-height: 1em;
@@ -297,6 +298,24 @@ footer > p {
     margin: 0.5rem 0;
 }
 
+/*media query for large of landscape phones*/
+@media screen and (min-width: 576px) {
+    /*general styles*/
+    header > * {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    /*main content styles*/
+    main {
+        margin-top: 130px;
+    }
+    
+    /*GALLERY.HTML MAIN CONTENT*/
+    #images {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 /*media query for tablets and bigger*/
 @media screen and (min-width: 768px) {
@@ -398,6 +417,10 @@ footer > p {
 
     #what-we-teach > div {
         width: 48%;
+    }
+
+    #images {
+        column-count: 3;
     }
     
 }
