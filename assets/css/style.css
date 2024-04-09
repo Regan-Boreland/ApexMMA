@@ -312,7 +312,7 @@ footer > p {
 @media screen and (min-width: 576px) {
     /*main content styles*/
     main {
-        margin-top: 200px;
+        margin-top: 21vh;
     }
 
     /*header styles*/
@@ -417,7 +417,7 @@ footer > p {
 @media screen and (min-width: 992px) {
 /*general styles for main content*/
     main {
-        margin-top: 300px;
+        margin-top: 30vhx;
     }
 /*styles for header*/
     header {
@@ -456,11 +456,14 @@ footer > p {
 
 /*high resolution devices*/
 @media screen and (min-width: 1200px) {
-/*general styles*/   
     header {
-        height: 30vh;
+        height: 35vh;
     }
 
+    main {
+        margin-top: 35vh;
+    }
+    
     ::placeholder {
         font-size: 18px;
     }
