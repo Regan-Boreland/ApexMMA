@@ -428,5 +428,18 @@ footer > p {
     
 }
 
+/*high resolution devices*/
+@media screen and (min-width: 1200px) {
+/*general styles*/   
+    header {
+        height: 30vh;
+    }
+
+    ::placeholder {
+        font-size: 18px;
+    }
+    
+}
+
 
 
