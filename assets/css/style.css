@@ -175,6 +175,14 @@ a {
 }
 
 /*GALLERY.HTML MAIN CONTENT STYLES*/
+#images > img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#images {
+    line-height: 0;
+}
 
 
 /*CONTACT.HTML MAIN CONTENT STYLES*/
