@@ -41,7 +41,7 @@ header {
     align-items: center;
     position: fixed;
     width: 100vw;
-    background: url(../images/ameya-sawant-7RJTPLgwMsc-unsplash.jpg) no-repeat center bottom/cover;
+    background: url(../images/index.html-images/ameya-sawant-7RJTPLgwMsc-unsplash.jpg) no-repeat center bottom/cover;
 }
 
 header > div {
@@ -75,6 +75,7 @@ a {
     padding: 0 0.5rem;
 }
 
+/*INDEX.HTML MAIN CONTENT STYLES*/
 /*about us styles*/
 #about-us-section {
     width: 100vw;
@@ -96,7 +97,7 @@ a {
 #booking {
     color: white;
 }
-/*styles for what we teach*/
+/*styles for what we teach section*/
 #what-we-teach {
     background-color: black;
     color: white;
@@ -110,82 +111,73 @@ a {
     align-items: center;
 }
 
-#boxing > * {
+.text-bgc > * {
     background-color: rgba(0, 0, 0, 0.5);
 }
+
 #boxing {
-    background: url(../images/pexels-pixabay-290416.jpg) no-repeat center center/cover;
+    background: url(../images/index.html-images/pexels-pixabay-290416.jpg) no-repeat center center/cover;
+    background-color: black;
 }
 
 #kickboxing {
-    background: url(../images/pexels-coco-championship-598686.jpg) no-repeat center center/cover;
-}
-#kickboxing > * {
-    background-color: rgba(0, 0, 0, 0.5);
+    background: url(../images/index.html-images/pexels-coco-championship-598686.jpg) no-repeat center center/cover;
+    background-color: black;
 }
 
 #mma {
-    background: url(../images/pexels-pavel-danilyuk-6295725.jpg) no-repeat center center/cover;
-}
-#mma > * {
-    background-color: rgba(0, 0, 0, 0.5);
+    background: url(../images/index.html-images/pexels-pavel-danilyuk-6295725.jpg) no-repeat center center/cover;
+    background-color: black;
 }
 
 #bjj {
-    background: url(../images/pexels-cottonbro-studio-7988366.jpg) no-repeat center 40%/cover;
-}
-#bjj > * {
-    background-color: rgba(0, 0, 0, 0.5);
+    background: url(../images/index.html-images/pexels-cottonbro-studio-7988366.jpg) no-repeat center 40%/cover;
+    background-color: black;
 }
 
 #mauy-thai {
-    background: url(../images/pexels-alexa-popovich-9302141.jpg) no-repeat center 30%/cover;
-}
-#mauy-thai > * {
-    background-color: rgba(0, 0, 0, 0.5);
+    background: url(../images/index.html-images/pexels-alexa-popovich-9302141.jpg) no-repeat center 30%/cover;
+    background-color: black;
 }
 
 #one-to-one {
-    background: url(../images/pexels-pavel-danilyuk-6295762.jpg) no-repeat center center/cover;
-}
-#one-to-one > * {
-    background-color: rgba(0, 0, 0, 0.5);
+    background: url(../images/index.html-images/pexels-pavel-danilyuk-6295762.jpg) no-repeat center center/cover;
+    background-color: black;
 }
 
-/*session time styles*/
+/*styles for session times*/
 #session-times {
     width: 100%;
 }
-#session {
+#session-times > div {
     margin: 4px 0;
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    color: whitesmoke;
+    text-shadow: 2px 2px #3a3a3a;
+    background: url('../images/index.html-images/derrick-treadwell-KufWaAolhP4-unsplash.jpg') no-repeat center center/cover;
 }
 
-#session > div {
+#Monday, #Tuesday, #Wednesday, #Thursday, #Friday, #Saturday {
     border: 2px solid whitesmoke;
     width: 45vw;
     text-align: center;
     left: 50px;
     padding: 4px 0;
-}
-
-#session {
-    display: flex;
-    flex-wrap: wrap;
-    color: whitesmoke;
-    text-shadow: 2px 2px #3a3a3a;
-    background: url('../images/derrick-treadwell-KufWaAolhP4-unsplash.jpg') no-repeat center center/cover;
-}
-
-#session div {
+    /*makes session timetable expand for each device*/
     flex-basis: 200px;
     align-self: center;
     flex-grow: 1;
 
 }
 
+/*GALLERY.HTML MAIN CONTENT STYLES*/
+
+
+/*CONTACT.HTML MAIN CONTENT STYLES*/
 /*styles for price section*/
 #prices {
     display: flex;
@@ -206,11 +198,18 @@ a {
     flex-direction: column;
     align-items: center;
 }
+
 /*FAQs styles*/
 #FAQs {
     padding: 1rem 1rem;
     color: white;
     background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+#FAQs > h3 {
+    align-self: center;
 }
 
 #FAQs > p {
@@ -310,6 +309,7 @@ footer > p {
         padding: 0 1rem;
     }
 /*main content styles*/
+/*INDEX.HTML MAIN CONTENT STYLES*/
     #what-we-teach > div {
         width: 46%;
         height: 300px;
@@ -321,20 +321,23 @@ footer > p {
         display: flex;
         flex-wrap: wrap;
     }
-
+/*CONTACT.HTML MAIN CONTENT STYLES*/
+/*price list styles*/
     #prices {
         width: 80%;
         align-self: center;
     }
-
+/*contact info styles*/
     #contact {
         display: flex;
         width: 100%;
     }
 
+/*FAQs styles*/
     #FAQs {
         width: 50%;
     }
+
 /*styles for enquiry form*/
     #enquiry {
         display: flex;
@@ -375,7 +378,8 @@ footer > p {
     #nav > li :hover {
         border-bottom: 2px solid #b30000;
     }
-
+/*INDEX.HTML MAIN CONTENT STYLES*/
+/*reasons section styles*/
     #reasons {
         padding: 0 5rem;
     }
