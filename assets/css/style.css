@@ -53,8 +53,8 @@ header > div {
     height: 28vh;
 }
 
-header > h1 {
-    padding-top: 3rem;
+#header > h1 {
+    padding-top: 1.5rem;
 }
 /*styles for navigation*/
 a {
@@ -161,7 +161,7 @@ a {
     flex-wrap: wrap;
     color: whitesmoke;
     text-shadow: 2px 2px #3a3a3a;
-    background: url('../images/index.html-images/derrick-treadwell-KufWaAolhP4-unsplash.jpg') no-repeat center center/cover;
+    background: url('../images/index.html-images/steven-cordes-pSWfkJgAKGg-unsplash.jpg') no-repeat center center/cover;
 }
 
 #Monday, #Tuesday, #Wednesday, #Thursday, #Friday, #Saturday {
