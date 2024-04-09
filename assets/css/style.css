@@ -417,7 +417,7 @@ footer > p {
 @media screen and (min-width: 992px) {
 /*general styles for main content*/
     main {
-        margin-top: 30vhx;
+        margin-top: 30vh;
     }
 /*styles for header*/
     header {
