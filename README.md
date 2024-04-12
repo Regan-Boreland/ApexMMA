@@ -4,6 +4,16 @@ Apex MMA is a website created for a local gym that teaches mixed martial arts. T
 Apex MMA contains three pages which are; home, gallery and contact us. The homepage has a small about us section, a what we teach section and a time table of when these sessions occur. The gallery page contains ten images of people participating at the club. The contact us page is devided into three sections which are; prices, FAQs and a sign up form.
 
 ## Features
+### The Header
+### Navigation
+### About us
+### What we teach
+### Session time table
+### Gallery
+### Price list
+### FAQs
+### Enquiry
+### Footer
 
 ## Testing
 ### Bugs
