@@ -11,6 +11,8 @@
 /*general styles*/
 body {
     min-height: 100vh;
+    max-width: 100%;
+    overflow-x: hidden;
     display: flex;
     flex-direction: column;
     font-size: 18px;
@@ -33,6 +35,7 @@ main {
 /*styles for header*/
 header {
     height: 25vh;
+    width: 100%;
     background-color: black;
     color: white;
     z-index: 99;
