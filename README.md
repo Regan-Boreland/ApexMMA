@@ -81,6 +81,7 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 ## Credits
 #### Media
 #### Content
+* Icons in the footer were taken from [font awesome](https://fontawesome.com/)
 
 ## Deployment
 ### The site was deployed to github pages. The setps to do this are:
