@@ -1,4 +1,5 @@
 # Apex MMA
+![am i responsive](assets/images/readme-images/amiresponsive-apexmma.png)
 Apex MMA is a website created for a local gym that teaches mixed martial arts. The target audience for the website is not limited to age however the primary target is people who are interested in MMA, as well as looking for ways to remain fit or are looking for a way to increase their fitness.
 
 Apex MMA contains three pages which are; home, gallery and contact us. The homepage has a small about us section, a what we teach section and a time table of when these sessions occur. The gallery page contains ten images of people participating at the club. The contact us page is devided into three sections which are; prices, FAQs and a sign up form.
@@ -8,7 +9,7 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 #### The Header
 * The header of Apex MMA shows the name of the club and contains navigation with the option to select between home, gallery and contact us.
 * The header has a background image to enagage users as it is one of the first things they will see.
-(assets/images/readme-images/PP1Header.png)
+![header](assets/images/readme-images/header.png)
 #### Navigation
 * The navigation bar is apart of the header and features on all three pages of the website and it contains the sections home, gallery and contact us.
 * This section allows the user to navigate throughout the website without having to use the browsers 'foward' and 'back' buttons.
