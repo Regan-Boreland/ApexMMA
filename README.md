@@ -71,10 +71,22 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 #### Validator testing
 * No errors were found on W3C CSS validator - [Apex MMA CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fregan-boreland.github.io%2FApexMMA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 * No errors were found on W3C HTML valitdator - [Apex MMA HTML validator](https://regan-boreland.github.io/ApexMMA/)
+* I confimred the contrasting colours is easy to read and the accesability throughout the website is good. I did this by running the website through lighthouse.
+
+![lighthouse](assets/images/readme-images/lighthouse-apexmma.png)
+
+#### Unfixed bugs 
+
 
 ## Credits
 #### Media
 #### Content
 
 ## Deployment
+### The site was deployed to github pages. The setps to do this are:
+* In the github repository go into the settings tab and select pages under the subsection code and automation.
+* Under the build and deployment section ensure the main branch is selected and the folder selected is /(root).
+* Save these settings and return to the code tab of the repository.
+* Under the deployment section select the deployments link.
+* View your live link.
 
