@@ -9,31 +9,61 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 #### The Header
 * The header of Apex MMA shows the name of the club and contains navigation with the option to select between home, gallery and contact us.
 * The header has a background image to enagage users as it is one of the first things they will see.
+
 ![header](assets/images/readme-images/header.png)
+
 #### Navigation
 * The navigation bar is apart of the header and features on all three pages of the website and it contains the sections home, gallery and contact us.
 * This section allows the user to navigate throughout the website without having to use the browsers 'foward' and 'back' buttons.
+
+![navigation](assets/images/readme-images/navigation.png)
+
 #### About us
 * The about us section is located at the top of the home page and it contains a brief description of how and why the club was created.
+
+![about us](assets/images/readme-images/about-us.png)
+
 #### What we teach
 * The what we teach section is also located on the homepage and it gives the user the options of what the club teaches.
 * This is located on the homepage as it would be one of the first things the user sees so it gives insight into what the club offers.
+
+![session types](assets/images/readme-images/session-type.png)
+![session types](assets/images/readme-images/session-type2.png)
+
 #### Session time table
 * The session time table informs the user on what lessons will be taught on which days and the times the sessions occur.
 * If any other lessons are implemented or any other session types are added the session time table will be updated to include these changes.
+
+![timetable](assets/images/readme-images/timetable.png)
+
 #### Gallery
 * The gallery is the second page of Apex MMA and it provides supporting images to the website.
 * The gallery also informs the user of the types of activities they could participate in.
+
+![gallery](assets/images/readme-images/gallery.png)
+
 #### Price list
 * The price list is the first section at the top of the contact us page and it informs the user of the prices for each age range.
+
+![prices](assets/images/readme-images/price-list.png)
+
 #### FAQs
 * FAQs is a small section containing frequently asked questions by users and people considering joining the club.
 * As more questions are asked regarding the club they will be added to the FAQs section so the website can provide as much information as possible.
+
+![faqs](assets/images/readme-images/faq.png)
+
 #### Enquiry
 * The enquiry section is a form that allows users to ask any questions they have about the club. It's also an opportunity for the club to keep in touch with potential clients/members.
+
+![enquiry](assets/images/readme-images/enquiry.png)
+
 #### Footer
 * The footer is the section below the main content of the page, which is also on all pages of the website.
 * The footer contains an adress and four social media links to the main social media platforms.
+
+![footer](assets/images/readme-images/footer.png)
+
 ### Future features
 
 ## Testing
