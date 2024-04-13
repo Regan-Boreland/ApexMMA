@@ -66,6 +66,12 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 
 ### Future features
 
+## Technologies used 
+* [HTML5](https://html.spec.whatwg.org/) - provides initial content and structure for the website
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides styling for the website
+* [GitHub](https://github.com/) - used to deploy the website
+* [GitPod](https://www.gitpod.io/) - used to create and edit the website
+
 ## Testing
 #### Validator testing
 * No errors were found on W3C CSS validator - [Apex MMA CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fregan-boreland.github.io%2FApexMMA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -95,7 +101,7 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 * Favicon was taken from [icons8](https://icons8.com/icons/set/predator).
 * Information on [removing horizontal scroll](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll).
 #### Acknowledgment
-* Jubrillionaire (assisting in making the form inputs required)
+* Mentor: Jubril Akolade (assisting in making the form inputs required)
 
 ## Deployment
 ### The site was deployed to github pages. The setps to do this are:
@@ -104,4 +110,5 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 * Save these settings and return to the code tab of the repository.
 * Under the deployment section select the deployments link.
 * View your live link.
+#### Live link to the website can be found here - [Apex MMA](https://github.com/Regan-Boreland/ApexMMA/deployments)
 
