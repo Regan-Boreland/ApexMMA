@@ -75,13 +75,26 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 
 ![lighthouse](assets/images/readme-images/lighthouse-apexmma.png)
 
+#### Fixed bugs
+| Bug | Solution |
+| ---| ---|
+| favicon not loading | this was resolved by reviewing the favicon link and replacing the 'a' in assets from capital to lowercase |
+| horizontal scroll on mobile phones and tablets | used a declaration to hide the overflow on the x-axis |
+| header covering text main content on high resolution devices | used google chrome dev tools to adjust the resolution so i could view the change then adjusted the margin top to match the header size |
+| form can be submitted without a first and last name | added an asset to the form declaration to make those fields required |
+
 #### Unfixed bugs 
+* When rotating a mobile phone horizontal the navigation doesn't fit into the header and navigation covers the text.
 
 
 ## Credits
 #### Media
+* Gallery images were taken from [pexels](https://www.pexels.com/).
+* Header background image was taken from [unsplash](https://unsplash.com/photos/woman-wearing-white-shirt-and-black-grappling-gloves-7RJTPLgwMsc).
+* Timetable background image was taken from [unsplash](https://unsplash.com/photos/a-wrestling-ring-in-an-empty-arena-with-a-man-standing-on-it-pSWfkJgAKGg).
 #### Content
-* Icons in the footer were taken from [font awesome](https://fontawesome.com/)
+* Icons in the footer were taken from [font awesome](https://fontawesome.com/).
+* Favicon was taken from [icons8](https://icons8.com/icons/set/predator).
 
 ## Deployment
 ### The site was deployed to github pages. The setps to do this are:
