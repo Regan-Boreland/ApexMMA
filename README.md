@@ -8,6 +8,7 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 #### The Header
 * The header of Apex MMA shows the name of the club and contains navigation with the option to select between home, gallery and contact us.
 * The header has a background image to enagage users as it is one of the first things they will see.
+(assets/images/readme-images/PP1Header.png)
 #### Navigation
 * The navigation bar is apart of the header and features on all three pages of the website and it contains the sections home, gallery and contact us.
 * This section allows the user to navigate throughout the website without having to use the browsers 'foward' and 'back' buttons.
@@ -37,6 +38,8 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 ## Testing
 #### Bugs
 #### Validator testing
+* No errors were found on W3C CSS validator - [Apex MMA CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fregan-boreland.github.io%2FApexMMA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+* No errors were found on W3C HTML valitdator - [Apex MMA HTML validator](https://regan-boreland.github.io/ApexMMA/)
 
 ## Credits
 #### Media
