@@ -67,7 +67,6 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 ### Future features
 
 ## Testing
-#### Bugs
 #### Validator testing
 * No errors were found on W3C CSS validator - [Apex MMA CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fregan-boreland.github.io%2FApexMMA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 * No errors were found on W3C HTML valitdator - [Apex MMA HTML validator](https://regan-boreland.github.io/ApexMMA/)
@@ -86,7 +85,6 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 #### Unfixed bugs 
 * When rotating a mobile phone horizontal the navigation doesn't fit into the header and navigation covers the text.
 
-
 ## Credits
 #### Media
 * Gallery images were taken from [pexels](https://www.pexels.com/).
@@ -95,6 +93,9 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 #### Content
 * Icons in the footer were taken from [font awesome](https://fontawesome.com/).
 * Favicon was taken from [icons8](https://icons8.com/icons/set/predator).
+* Information on [removing horizontal scroll](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll).
+#### Acknowledgment
+* Jubrillionaire (assisting in making the form inputs required)
 
 ## Deployment
 ### The site was deployed to github pages. The setps to do this are:
