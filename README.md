@@ -1,43 +1,53 @@
 # Apex MMA
-![am i responsive](assets/images/readme-images/amiresponsive-apexmma.png)
+![am I responsive](assets/images/readme-images/amiresponsive-apexmma.png)
 Apex MMA is a website created for a local gym that teaches mixed martial arts. The target audience for the website is not limited to age however the primary target is people who are interested in MMA, as well as looking for ways to remain fit or are looking for a way to increase their fitness.
 
-Apex MMA contains three pages which are; home, gallery and contact us. The homepage has a small about us section, a what we teach section and a time table of when these sessions occur. The gallery page contains ten images of people participating at the club. The contact us page is devided into three sections which are; prices, FAQs and a sign up form.
-
+## User experience (UX)
+#### Wireframes
+In the wireframe stage, I used a [wireframe.cc](https://wireframe.cc/) to design the initial structure of the home page. Once I had created the baseline, I decided to add content and images when it improved the visual quality and the user experience of the website.
+![wireframe homepage](assets/images/readme-images/wireframe1.png)
+#### Site structure
+Apex MMA contains three pages which are; home, gallery and contact us. The homepage has a small about us section, a what we teach section and a timetable of when these sessions occur. The gallery page contains ten images of people participating at the club. The contact us page is divided into three sections which are; prices, FAQs and a sign-up form.
+### Design choices
+#### Colour scheme
+I have selected three colours for the colour scheme which are white, red and black. I have selected these colours to ensure the contrast between the text, and background colours and backgrounds images makes the text readable for all users.
+#### Typography
+I have chosen two different fonts to use on the website which are 'montserrat' and 'bebas neue'. These fonts fit the theme of the website because they are large fonts and make the content easily readable. 
 ## Features
 ### Existing features
 #### The Header
 * The header of Apex MMA shows the name of the club and contains navigation with the option to select between home, gallery and contact us.
-* The header has a background image to enagage users as it is one of the first things they will see.
+* The header has a background image to engage users as it is one of the first things they will see.
 
 ![header](assets/images/readme-images/header.png)
 
 #### Navigation
-* The navigation bar is apart of the header and features on all three pages of the website and it contains the sections home, gallery and contact us.
-* This section allows the user to navigate throughout the website without having to use the browsers 'foward' and 'back' buttons.
+* The navigation bar is a part of the header and features on all three pages of the website.
+* The navigation bar contains the pages home, gallery and contact us.
+* This section allows the user to navigate throughout the website without having to use the browsers 'forward' and 'back' buttons.
 
 ![navigation](assets/images/readme-images/navigation.png)
 
 #### About us
-* The about us section is located at the top of the home page and it contains a brief description of how and why the club was created.
+* The about us section is located at the top of the home page, and it contains a brief description of how and why the club was created.
 
 ![about us](assets/images/readme-images/about-us.png)
 
 #### What we teach
-* The what we teach section is also located on the homepage and it gives the user the options of what the club teaches.
+* What we teach is a section located on the homepage and it provides the user information on what the club teahces.
 * This is located on the homepage as it would be one of the first things the user sees so it gives insight into what the club offers.
 
 ![session types](assets/images/readme-images/session-type.png)
 ![session types](assets/images/readme-images/session-type2.png)
 
-#### Session time table
-* The session time table informs the user on what lessons will be taught on which days and the times the sessions occur.
-* If any other lessons are implemented or any other session types are added the session time table will be updated to include these changes.
+#### Session timetable
+* The session timetable informs the user on what lessons will be taught on which days and the times the sessions occur.
+* If any other lessons are implemented or any other session types are added the session timetable will be updated to include these changes.
 
 ![timetable](assets/images/readme-images/timetable.png)
 
 #### Gallery
-* The gallery is the second page of Apex MMA and it provides supporting images to the website.
+* The gallery is the second page of Apex MMA, and it provides supporting images to the website.
 * The gallery also informs the user of the types of activities they could participate in.
 
 ![gallery](assets/images/readme-images/gallery.png)
@@ -60,7 +70,7 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 
 #### Footer
 * The footer is the section below the main content of the page, which is also on all pages of the website.
-* The footer contains an adress and four social media links to the main social media platforms.
+* The footer contains an address and four social media links to the main social media platforms.
 
 ![footer](assets/images/readme-images/footer.png)
 
@@ -75,8 +85,8 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 ## Testing
 #### Validator testing
 * No errors were found on W3C CSS validator - [Apex MMA CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fregan-boreland.github.io%2FApexMMA%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-* No errors were found on W3C HTML valitdator - [Apex MMA HTML validator](https://regan-boreland.github.io/ApexMMA/)
-* I confimred the contrasting colours is easy to read and the accesability throughout the website is good. I did this by running the website through lighthouse.
+* No errors were found on W3C HTML validator - [Apex MMA HTML validator](https://regan-boreland.github.io/ApexMMA/)
+* I confirmed the contrasting colours is easy to read and the accessibility throughout the website is good. I did this by running the website through lighthouse.
 
 ![lighthouse](assets/images/readme-images/lighthouse-apexmma.png)
 
@@ -85,11 +95,11 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 | ---| ---|
 | favicon not loading | this was resolved by reviewing the favicon link and replacing the 'a' in assets from capital to lowercase |
 | horizontal scroll on mobile phones and tablets | used a declaration to hide the overflow on the x-axis |
-| header covering text main content on high resolution devices | used google chrome dev tools to adjust the resolution so i could view the change then adjusted the margin top to match the header size |
+| header covering text main content on high resolution devices | used google chrome dev tools to adjust the resolution so I could view the change then adjusted the margin top to match the header size |
 | form can be submitted without a first and last name | added an asset to the form declaration to make those fields required |
 
 #### Unfixed bugs 
-* When rotating a mobile phone horizontal the navigation doesn't fit into the header and navigation covers the text.
+* When rotating a mobile phone horizontal, the navigation doesn't fit into the header and navigation covers the text.
 
 ## Credits
 #### Media
@@ -104,8 +114,8 @@ Apex MMA contains three pages which are; home, gallery and contact us. The homep
 * Mentor: Jubril Akolade (assisting in making the form inputs required)
 
 ## Deployment
-### The site was deployed to github pages. The setps to do this are:
-* In the github repository go into the settings tab and select pages under the subsection code and automation.
+### The site was deployed to GitHub pages. The steps to do this are:
+* In the GitHub repository go into the settings tab and select pages under the subsection code and automation.
 * Under the build and deployment section ensure the main branch is selected and the folder selected is /(root).
 * Save these settings and return to the code tab of the repository.
 * Under the deployment section select the deployments link.
