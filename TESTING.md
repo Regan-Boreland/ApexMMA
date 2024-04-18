@@ -4,7 +4,13 @@
 * No errors were found on W3C HTML validator - [Apex MMA HTML validator](https://regan-boreland.github.io/ApexMMA/)
 * I confirmed the contrasting colours is easy to read and the accessibility throughout the website is good. I did this by running the website through lighthouse.
 
-![lighthouse](assets/images/readme-images/lighthouse-apexmma.png)
+Lighthouse for mobile phones:
+
+![lighthouse for mobile phones](assets/images/testing-images/lighthouse-apexmma.png)
+
+Lighthouse on desktop:
+
+![lighthouse for desktop](assets/images/testing-images/Apex%20MMA%20lighthouse%20for%20desktop.png)
 
 ## Manual testing
 

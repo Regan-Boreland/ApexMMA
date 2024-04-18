@@ -2,6 +2,8 @@
 ![am I responsive](assets/images/readme-images/amiresponsive-apexmma.png)
 Apex MMA is a website created for a local gym that teaches mixed martial arts. The target audience for the website is not limited to age however the primary target is people who are interested in MMA, as well as looking for ways to remain fit or are looking for a way to increase their fitness.
 
+#### Live link to the website can be found here - [Apex MMA](https://github.com/Regan-Boreland/ApexMMA/deployments)
+
 ## User experience (UX)
 #### Wireframes
 In the wireframe stage, I used a [wireframe.cc](https://wireframe.cc/) to design the initial structure of the home page. Once I had created the baseline, I decided to add content and images when it improved the visual quality and the user experience of the website.
@@ -75,7 +77,8 @@ I have chosen two different fonts to use on the website which are 'montserrat' a
 ![footer](assets/images/readme-images/footer.png)
 
 ### Future features
-
+## Testing
+Content regarding testing is on [testing file](TESTING.md)
 ## Technologies used 
 * [HTML5](https://html.spec.whatwg.org/) - provides initial content and structure for the website
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides styling for the website
@@ -102,5 +105,5 @@ I have chosen two different fonts to use on the website which are 'montserrat' a
 * Save these settings and return to the code tab of the repository.
 * Under the deployment section select the deployments link.
 * View your live link.
-#### Live link to the website can be found here - [Apex MMA](https://github.com/Regan-Boreland/ApexMMA/deployments)
+
 
