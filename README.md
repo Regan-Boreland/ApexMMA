@@ -10,6 +10,14 @@ In the wireframe stage, I used a [wireframe.cc](https://wireframe.cc/) to design
 ![wireframe homepage](assets/images/readme-images/wireframe1.png)
 #### Site structure
 Apex MMA contains three pages which are; home, gallery and contact us. The homepage has a small about us section, a what we teach section and a timetable of when these sessions occur. The gallery page contains ten images of people participating at the club. The contact us page is divided into three sections which are; prices, FAQs and a sign-up form.
+### User stories
+##### First time visitors
+* I want to get information on a mixed martial arts club in my local area.
+* I want the site to be responsive to my device and maintain good accessibility.
+* I want a website that has easy to use navigation but also informs me what page I am looking at.
+* I want to be able to contact the club if I would like any information that isn't on the website.
+##### Returning visitors 
+* I want to be able to maintain contact with the club and remain informed about any changes to the club.
 ### Design choices
 #### Colour scheme
 I have selected three colours for the colour scheme which are white, red and black. I have selected these colours to ensure the contrast between the text, and background colours and backgrounds images makes the text readable for all users.
@@ -77,6 +85,15 @@ I have chosen two different fonts to use on the website which are 'montserrat' a
 ![footer](assets/images/readme-images/footer.png)
 
 ### Future features
+* Upload videos to the gallery rather than just images so users can see examples of what they will be learning.
+* Add a booking system so users can book private sessions.
+* Add information about coaches and private trainers.
+## Accessibility
+During the creation of the website I have kept the accessibility as friendly as possible, I have done this by:
+* Using semantic HTML.
+* Ensuring the colours have sufficent contrast.
+* Using alt attributes on all images and links so screen readers understand their use.
+* Used a clear font that is easy to read. 
 ## Testing
 Content regarding testing is on [testing file](TESTING.md)
 ## Technologies used 
