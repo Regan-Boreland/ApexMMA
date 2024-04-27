@@ -47,6 +47,52 @@ Lighthouse contact us on desktop:
 
 
 ### Full testing
+The website was tested on the following devices:
+* Iphone 12 Pro 
+* Iphone 14 Pro Max 
+* IPad Air 
+* IPad Pro
+* ASUS Zenbook Duo
+
+The website was tested on the following browsers:
+* Google chrome
+* Safari 
+* Microsoft Edge
+
+`Home page`
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Home link in navigation/header | Loads homepage and unnderlines "home" link in header | Clicked "home" | Home page loads and underlines the page name | Pass |
+| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked on "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
+| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked on "contact us" link | Takes user to contact us page | Pass |
+| Facebook link in footer | Takes the user to facebook in a new tab | Clicked on Facebook icon in footer | Opened Facebook in a new tab | Pass |
+| Twitter/X link in footer | Opens Twitter/X in a new tab | Clicked on icon in footer | Opens Twitter/X in a new tab | Pass |
+| Instagram link in footer | Opens Instagram in a new tab | Clicked on Instagram icon in footer | Opens Instagram in new tab | Pass |
+| Youtube link in footer | Opens Youtube in new tab | Clicked on Youtube icon | Opens Youtube in new tab | Pass |
+
+`Gallery`
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Home link in navigation/header | Loads homepage and unnderlines "home" link in header | Clicked "home" | Home page loads and underlines the page name | Pass |
+| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked on "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
+| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked on "contact us" link | Takes user to contact us page | Pass |
+| Facebook link in footer | Takes the user to facebook in a new tab | Clicked on Facebook icon in footer | Opened Facebook in a new tab | Pass |
+| Twitter/X link in footer | Opens Twitter/X in a new tab | Clicked on icon in footer | Opens Twitter/X in a new tab | Pass |
+| Instagram link in footer | Opens Instagram in a new tab | Clicked on Instagram icon in footer | Opens Instagram in new tab | Pass |
+| Youtube link in footer | Opens Youtube in new tab | Clicked on Youtube icon | Opens Youtube in new tab | Pass |
+
+`Contact Us`
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Home link in navigation/header | Loads homepage and unnderlines "home" link in header | Clicked "home" | Home page loads and underlines the page name | Pass |
+| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked on "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
+| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked on "contact us" link | Takes user to contact us page | Pass |
+| Facebook link in footer | Takes the user to facebook in a new tab | Clicked on Facebook icon in footer | Opened Facebook in a new tab | Pass |
+| Twitter/X link in footer | Opens Twitter/X in a new tab | Clicked on icon in footer | Opens Twitter/X in a new tab | Pass |
+| Instagram link in footer | Opens Instagram in a new tab | Clicked on Instagram icon in footer | Opens Instagram in new tab | Pass |
+| Youtube link in footer | Opens Youtube in new tab | Clicked on Youtube icon | Opens Youtube in new tab | Pass |
+| Equiry form | All information is required to submit the form and upon submittion the form will respond with a congratulations message from the code institute | Tried submitting form without any information filled in, tried submitting with spaces rather than the required information, tried submitting with all information | Upon submitting with no information filled in, the form wouldn't allow submission. When the form was filled in with spaces rather than letters the form prompted that this information was required. When all the information was filled in correctly the form allowed submission and a congratulations message appeared from the code institute. | Pass
+
 
 ### Fixed bugs
 | Bug | Solution |
