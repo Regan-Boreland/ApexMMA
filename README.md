@@ -96,14 +96,29 @@ Content regarding testing is on [testing file](TESTING.md)
 * Favicon was taken from [icons8](https://icons8.com/icons/set/predator).
 * Information on [removing horizontal scroll](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll).
 #### Acknowledgment
-* Mentor: Jubril Akolade (assisting in making the form inputs required)
+* Mentor: Jubril Akolade
 
-## Deployment
-### The site was deployed to GitHub pages. The steps to do this are:
+### Deployment & Local Deployment
+#### Deployment
+###### The site was deployed to GitHub pages. The steps to do this are:
 * In the GitHub repository go into the settings tab and select pages under the subsection code and automation.
 * Under the build and deployment section ensure the main branch is selected and the folder selected is /(root).
 * Save these settings and return to the code tab of the repository.
 * Under the deployment section select the deployments link.
 * View your live link.
+
+#### Local Deployment
+##### Fork
+###### The steps to fork are:
+* Log in to Github 
+* Go to the repository for Apex MMA, [Regan Boreland/ApexMMA](https://github.com/Regan-Boreland/ApexMMA)
+* Click fork on the right hand side of the screen (located between notifications and star/saved)
+
+##### Clone
+* Log in to Github 
+* Go to the repository for Apex MMA, [Regan Boreland/ApexMMA](https://github.com/Regan-Boreland/ApexMMA)
+* Click on the code option and select what you would like to clone with, either: HTTPS, SSH or GitHub CLI. 
+* Open the terminal in your selected code editor and change the current working directory to the location of where you want the cloned directory.
+* Type "Git clone" into the terminal and press enter on your keyboard. 
 
 
