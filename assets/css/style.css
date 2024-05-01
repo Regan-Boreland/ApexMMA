@@ -431,7 +431,6 @@ footer > p {
 /*styles for header*/
     header {
         height: 30vh;
-        position: absolute;
     }
 
     header > div {
