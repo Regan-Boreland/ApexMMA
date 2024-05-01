@@ -16,6 +16,10 @@ Lighthouse contact us on mobile phones:
 
 ![Lighthouse contact us on mobile phones](assets/images/testing-images/apexmma-contactus-(mobile).png)
 
+Lighthouse thank you page on mobile phones:
+
+![Lighthouse thank you on mobile phones](assets/images/testing-images/apexmma-thankyou-(mobile).png)
+
 Lighthouse homepage on desktop:
 
 ![Lighthouse homepage on desktop](assets/images/testing-images/apexmma-home-(desktop).png)
@@ -27,6 +31,10 @@ Lighthouse gallery on desktop:
 Lighthouse contact us on desktop:
 
 ![Lighthouse contact us on desktop](assets/images/testing-images/apexmma-contactus-(desktop).png)
+
+Lighthouse thank you page on desktop:
+
+![Lighthouse thank you on desktop](assets/images/testing-images/apexmma-thankyou-(desktop).png)
 
 
 ## Manual testing

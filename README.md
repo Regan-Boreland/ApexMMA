@@ -102,19 +102,6 @@ Content regarding testing is on [testing file](TESTING.md)
 * [GitHub](https://github.com/) - used to deploy the website
 * [GitPod](https://www.gitpod.io/) - used to create and edit the website
 
-## 
-## Credits
-#### Media
-* Gallery images were taken from [pexels](https://www.pexels.com/).
-* Header background image was taken from [unsplash](https://unsplash.com/photos/woman-wearing-white-shirt-and-black-grappling-gloves-7RJTPLgwMsc).
-* Timetable background image was taken from [unsplash](https://unsplash.com/photos/a-wrestling-ring-in-an-empty-arena-with-a-man-standing-on-it-pSWfkJgAKGg).
-#### Content
-* Icons in the footer were taken from [font awesome](https://fontawesome.com/).
-* Favicon was taken from [icons8](https://icons8.com/icons/set/predator).
-* Information on [removing horizontal scroll](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll).
-#### Acknowledgment
-* Mentor: Jubril Akolade
-
 ### Deployment & Local Deployment
 #### Deployment
 ###### The site was deployed to GitHub pages. The steps to do this are:
@@ -132,10 +119,24 @@ Content regarding testing is on [testing file](TESTING.md)
 * Click fork on the right hand side of the screen (located between notifications and star/saved)
 
 ##### Clone
+###### The steps to clone are:
 * Log in to Github 
 * Go to the repository for Apex MMA, [Regan Boreland/ApexMMA](https://github.com/Regan-Boreland/ApexMMA)
 * Click on the code option and select what you would like to clone with, either: HTTPS, SSH or GitHub CLI. 
 * Open the terminal in your selected code editor and change the current working directory to the location of where you want the cloned directory.
 * Type "Git clone" into the terminal and press enter on your keyboard. 
+
+## Credits
+#### Media
+* Gallery images were taken from [pexels](https://www.pexels.com/).
+* Header background image was taken from [unsplash](https://unsplash.com/photos/woman-wearing-white-shirt-and-black-grappling-gloves-7RJTPLgwMsc).
+* Timetable background image was taken from [unsplash](https://unsplash.com/photos/a-wrestling-ring-in-an-empty-arena-with-a-man-standing-on-it-pSWfkJgAKGg).
+#### Content
+* Icons in the footer were taken from [font awesome](https://fontawesome.com/).
+* Favicon was taken from [icons8](https://icons8.com/icons/set/predator).
+* Information on [removing horizontal scroll](https://stackoverflow.com/questions/17756649/disable-the-horizontal-scroll).
+#### Acknowledgment
+* Mentor: Jubril Akolade
+
 
 
