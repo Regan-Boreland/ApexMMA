@@ -6,27 +6,27 @@
 
 Lighthouse homepage on mobile phones:
 
-![Lighthouse homepage on mobile phones](assets/images/testing-images/ApexMMA%20home%20(mobile).png)
+![Lighthouse homepage on mobile phones](assets/images/testing-images/apexmma-home-(mobile).png)
 
 Lighthouse gallery on mobile phones:
 
-![Lighthouse gallery on mobile phones](assets/images/testing-images/ApexMMA%20gallery%20(mobile).png)
+![Lighthouse gallery on mobile phones](assets/images/testing-images/apexmma-gallery-(mobile).png)
 
 Lighthouse contact us on mobile phones:
 
-![Lighthouse contact us on mobile phones](assets/images/testing-images/ApexMMA%20contact%20us%20(mobile).png)
+![Lighthouse contact us on mobile phones](assets/images/testing-images/apexmma-contactus-(mobile).png)
 
 Lighthouse homepage on desktop:
 
-![Lighthouse homepage on desktop](assets/images/testing-images/ApexMMA%20home%20(desktop).png)
+![Lighthouse homepage on desktop](assets/images/testing-images/apexmma-home-(desktop).png)
 
 Lighthouse gallery on desktop:
 
-![Lighthouse gallery on desktop](assets/images/testing-images/ApexMMA%20gallery%20(desktop).png)
+![Lighthouse gallery on desktop](assets/images/testing-images/apexmma-gallery-(desktop).png)
 
 Lighthouse contact us on desktop:
 
-![Lighthouse contact us on desktop](assets/images/testing-images/ApexMMA%20contact%20us%20(desktop).png)
+![Lighthouse contact us on desktop](assets/images/testing-images/apexmma-contactus-(desktop).png)
 
 
 ## Manual testing
