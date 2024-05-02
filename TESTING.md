@@ -71,8 +71,8 @@ The website was tested on the following browsers:
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | Home link in navigation/header | Loads homepage and unnderlines "home" link in header | Clicked "home" | Home page loads and underlines the page name | Pass |
-| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked on "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
-| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked on "contact us" link | Takes user to contact us page | Pass |
+| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
+| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked "contact us" | Takes user to contact us page | Pass |
 | Facebook link in footer | Takes the user to facebook in a new tab | Clicked on Facebook icon in footer | Opened Facebook in a new tab | Pass |
 | Twitter/X link in footer | Opens Twitter/X in a new tab | Clicked on icon in footer | Opens Twitter/X in a new tab | Pass |
 | Instagram link in footer | Opens Instagram in a new tab | Clicked on Instagram icon in footer | Opens Instagram in new tab | Pass |
@@ -82,8 +82,8 @@ The website was tested on the following browsers:
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | Home link in navigation/header | Loads homepage and unnderlines "home" link in header | Clicked "home" | Home page loads and underlines the page name | Pass |
-| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked on "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
-| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked on "contact us" link | Takes user to contact us page | Pass |
+| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
+| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked "contact us" link | Takes user to contact us page | Pass |
 | Facebook link in footer | Takes the user to facebook in a new tab | Clicked on Facebook icon in footer | Opened Facebook in a new tab | Pass |
 | Twitter/X link in footer | Opens Twitter/X in a new tab | Clicked on icon in footer | Opens Twitter/X in a new tab | Pass |
 | Instagram link in footer | Opens Instagram in a new tab | Clicked on Instagram icon in footer | Opens Instagram in new tab | Pass |
@@ -93,8 +93,8 @@ The website was tested on the following browsers:
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | Home link in navigation/header | Loads homepage and unnderlines "home" link in header | Clicked "home" | Home page loads and underlines the page name | Pass |
-| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked on "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
-| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked on "contact us" link | Takes user to contact us page | Pass |
+| Gallery link in navigation/header | Takes user to gallery page and underlines page name in header | Clicked "gallery" | Takes user to gallery page and underlines the page name in header | Pass |
+| Contact us link in navigation/header | Takes user to contact us page and underlines page name in header | Clicked "contact us" link | Takes user to contact us page | Pass |
 | Facebook link in footer | Takes the user to facebook in a new tab | Clicked on Facebook icon in footer | Opened Facebook in a new tab | Pass |
 | Twitter/X link in footer | Opens Twitter/X in a new tab | Clicked on icon in footer | Opens Twitter/X in a new tab | Pass |
 | Instagram link in footer | Opens Instagram in a new tab | Clicked on Instagram icon in footer | Opens Instagram in new tab | Pass |
@@ -111,4 +111,4 @@ The website was tested on the following browsers:
 | Form can be submitted without a first and last name | added an asset to the form declaration to make those fields required |
 
 ### Unfixed bugs 
-* When rotating a mobile phone horizontal, the navigation doesn't fit into the header and navigation covers the text.
+* No unfixed bugs
